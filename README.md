@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wojtek0911
 - 👀 I’m interested in coding, music and photography
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on Python or JavaScript projects
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on Web Development or JavaScript projects
 - 📫 How to reach me ? Use my e-mail: w.kuziorowicz@gmail.com
 
 <!---
